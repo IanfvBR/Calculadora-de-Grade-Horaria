@@ -2,14 +2,16 @@
 **Nome: Calculadora de Grade Horária**
 **Autor: Ian**
 
+Acesso: https://ianfvbr.github.io/Calculadora-de-Grade-Horaria/main.html
 
 **Passo a passo de como utilizar:**
 
  1. Colocar o nome, código ou identificador qualquer da disciplina.
- 2. Colocar o horário, seguindo a formatação correta: |dias|turno|horas| sendo turno = 'M' (Manha), 'T' (Tarde) ou 'N' (Noite), e horas números inteiros.
- 3. Repetir os passos 1 e 2 para cada opção de disciplina desejada.
- 4. Informar a quantidade de disciplinas que deseja cursar.
- 5. Clicar em 'Calcular'.
+ 2. Colocar o horário, seguindo a formatação correta:
+  |dias|turno|horas| sendo turno = 'M' (Manha), 'T' (Tarde) ou 'N' (Noite), e horas números inteiros.
+ 4. Repetir os passos 1 e 2 para cada opção de disciplina desejada.
+ 5. Informar a quantidade de disciplinas que deseja cursar.
+ 6. Clicar em 'Calcular'.
 
 **Exemplo**:
 
